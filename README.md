@@ -2,7 +2,7 @@
 
 **`Full-stack Web developer & Data Scientist`**
 
-Recently graduated with a bachelor of Computer Science with plans to pursue a Master's in Data Science. I love all things tech and spend my free time self-learning new technologies or doing freelance Web Development/Data Analytics projects.
+Recently graduated with a bachelor of Computer Science and plan to pursue a Master's in Data Science. I love all things tech and spend my free time self-learning new technologies or doing freelance Web Development/Data Analytics projects.
 
 My Love of learning branches beyond STEM. I have a passion for languages, being a tool to connect with people on a deeper level, there really is no greater feeling than reaching a level of proficiency in a language where you can converse with native speakers. Over the last few years, I've taught myself Japanese to an N2 Level (standardized japan proficiency levels) and am now attempting to learn Hindi and French.
 
